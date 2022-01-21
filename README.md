@@ -12,7 +12,7 @@ The dataset is obtained from Kaggle.
 Link: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 
 ## Modelling :
-The analysis and model creation can be found in the .ipynb file. 
+The analysis and model creation can be found in the .ipynb file in "model" folder.
 
 The main packages used are numpy, pandas, matplotlib, seaborn and sklearn.  
 
