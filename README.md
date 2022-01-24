@@ -18,5 +18,6 @@ The main packages used are numpy, pandas, matplotlib, seaborn and sklearn.
 
 ## Deployemnt :
 The web app has been build using basic HTML, CSS, Javascript, Flask.
-![ML](static/house.JPG)
+
+![ML](static/house.jpg)
 
